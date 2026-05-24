@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-24",
+  "scraped_at": "2026-05-24T06:00:00+04:00",
+  "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
+  "total_pharmacies": 64,
+  "pharmacies": [
+    {
+      "name": "Asda",
+      "url": "https://monj.co.uk/asda-online-doctor-discount-codes/",
+      "prices": {
+        "2.5mg": 172.47,
+        "5mg": 192.47,
+        "7.5mg": 252.47,
+        "10mg": 282.47,
+        "12.5mg": 292.47,
+        "15mg": 302.47
+      },
+      "trustpilot": 4.5,
+      "gphc": "1116105",
+      "subscription": false,
+      "discounts": "No Discount Available"
+    }
+  ]
+}
