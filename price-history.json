@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
+    "description": "Mounjaro UK non-discounted retail prices across pharmacies",
+    "dosages": ["2.5mg","5mg","7.5mg","10mg","12.5mg","15mg"],
+    "last_scraped": "2026-05-24T09:03:26+04:00",
+    "total_pharmacies": 64
+  },
+  "pharmacies": []
+}
