@@ -1,8 +1,39 @@
 {
-  "meta": {
-    "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-07-17T06:03:15.072274+04:00",
-    "total_pharmacies": 67
+  "date": "2026-07-17",
+  "scraped_at": "2026-07-17T06:03:15.072274+04:00",
+  "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
+  "total_pharmacies": 67,
+  "dosage_stats": {
+    "2.5mg": {
+      "min": 131.0,
+      "avg": 162.52,
+      "max": 225.0
+    },
+    "5mg": {
+      "min": 154.0,
+      "avg": 185.91,
+      "max": 254.0
+    },
+    "7.5mg": {
+      "min": 204.99,
+      "avg": 241.02,
+      "max": 304.0
+    },
+    "10mg": {
+      "min": 229.0,
+      "avg": 267.93,
+      "max": 324.0
+    },
+    "12.5mg": {
+      "min": 246.0,
+      "avg": 286.48,
+      "max": 344.0
+    },
+    "15mg": {
+      "min": 266.0,
+      "avg": 303.6,
+      "max": 359.95
+    }
   },
   "pharmacies": [
     {
