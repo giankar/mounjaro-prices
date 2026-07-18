@@ -1,9 +1,8 @@
 {
-  "meta": {
-    "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-07-18T06:02:40.998548+04:00",
-    "total_pharmacies": 67
-  },
+  "date": "2026-07-18",
+  "scraped_at": "2026-07-18T06:02:40.998548+04:00",
+  "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
+  "total_pharmacies": 67,
   "pharmacies": [
     {
       "pharmacy_name": "Asda",
