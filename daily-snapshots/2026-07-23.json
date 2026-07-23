@@ -1,9 +1,7 @@
 {
-  "meta": {
-    "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-07-23T02:05:14.118Z",
-    "total_pharmacies": 71
-  },
+  "date": "2026-07-23",
+  "scraped_at": "2026-07-23T02:05:14.118Z",
+  "pharmacy_count": 71,
   "pharmacies": [
     {
       "pharmacy_name": "Asda",
@@ -1212,5 +1210,37 @@
       "subscription": false,
       "discounts": "[GBP40 Off First Order | GBP15 Off Return Orders](https://monj.co.uk/zava-discount-codes/)"
     }
-  ]
+  ],
+  "stats": {
+    "2.5mg": {
+      "min": 131,
+      "max": 225,
+      "avg": 163.91
+    },
+    "5mg": {
+      "min": 154,
+      "max": 254,
+      "avg": 187.32
+    },
+    "7.5mg": {
+      "min": 204.99,
+      "max": 304,
+      "avg": 241.76
+    },
+    "10mg": {
+      "min": 229,
+      "max": 324,
+      "avg": 268.95
+    },
+    "12.5mg": {
+      "min": 246,
+      "max": 344,
+      "avg": 287.93
+    },
+    "15mg": {
+      "min": 266,
+      "max": 359.95,
+      "avg": 305.07
+    }
+  }
 }
