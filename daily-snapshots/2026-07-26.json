@@ -1,9 +1,8 @@
 {
-  "meta": {
-    "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-07-26T06:04:52.101498+04:00",
-    "total_pharmacies": 72
-  },
+  "date": "2026-07-26",
+  "scraped_at": "2026-07-26T06:04:52.101498+04:00",
+  "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
+  "pharmacy_count": 72,
   "pharmacies": [
     {
       "pharmacy_name": "Allerton",
