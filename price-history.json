@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-10-10T06:03:18+04:00",
-    "total_pharmacies": 77
+    "last_scraped": "2026-10-13T06:01:45+04:00",
+    "total_pharmacies": 79
   },
   "pharmacies": [
     {
@@ -21,6 +21,23 @@
       "additional_support": false,
       "subscription": false,
       "discounts": "View Latest Price"
+    },
+    {
+      "pharmacy_name": "Asda",
+      "pharmacy_url": "https://monj.co.uk/asda-online-doctor-discount-codes/",
+      "prices": {
+        "2.5mg": 152.47,
+        "5mg": 192.47,
+        "7.5mg": 252.47,
+        "10mg": 282.47,
+        "12.5mg": 292.47,
+        "15mg": 302.47
+      },
+      "trustpilot": 4.5,
+      "gphc": 1091675,
+      "additional_support": false,
+      "subscription": false,
+      "discounts": "Asda Discount Info"
     },
     {
       "pharmacy_name": "Ashcroft Pharmacy",
@@ -67,7 +84,7 @@
         "12.5mg": 309.0,
         "15mg": 319.0
       },
-      "trustpilot": 4.5,
+      "trustpilot": 4.6,
       "gphc": 9013085,
       "additional_support": false,
       "subscription": true,
@@ -254,7 +271,7 @@
         "12.5mg": 299.0,
         "15mg": 309.0
       },
-      "trustpilot": 4.6,
+      "trustpilot": 4.5,
       "gphc": 9013270,
       "additional_support": false,
       "subscription": true,
@@ -339,7 +356,7 @@
         "12.5mg": 279.0,
         "15mg": 299.0
       },
-      "trustpilot": 3.3,
+      "trustpilot": 3.4,
       "gphc": 9012347,
       "additional_support": false,
       "subscription": true,
@@ -373,7 +390,7 @@
         "12.5mg": 303.94,
         "15mg": 313.94
       },
-      "trustpilot": 3.9,
+      "trustpilot": 4.0,
       "gphc": 9013068,
       "additional_support": false,
       "subscription": true,
@@ -390,7 +407,7 @@
         "12.5mg": 294.44,
         "15mg": 324.44
       },
-      "trustpilot": 4.8,
+      "trustpilot": 4.7,
       "gphc": 9013192,
       "additional_support": false,
       "subscription": false,
@@ -594,7 +611,7 @@
         "12.5mg": 309.0,
         "15mg": 329.0
       },
-      "trustpilot": 4.3,
+      "trustpilot": 4.2,
       "gphc": 9012559,
       "additional_support": true,
       "subscription": true,
@@ -832,7 +849,7 @@
         "12.5mg": 296.24,
         "15mg": 306.24
       },
-      "trustpilot": 4.7,
+      "trustpilot": 4.6,
       "gphc": 9010146,
       "additional_support": true,
       "subscription": false,
@@ -854,6 +871,23 @@
       "additional_support": true,
       "subscription": false,
       "discounts": "£40 Off 1st Orders | £20 Off Return"
+    },
+    {
+      "pharmacy_name": "Pharmulous",
+      "pharmacy_url": "https://monj.co.uk/pharmulous-discount-codes/",
+      "prices": {
+        "2.5mg": 149.98,
+        "5mg": 169.98,
+        "7.5mg": 219.98,
+        "10mg": 244.98,
+        "12.5mg": 264.98,
+        "15mg": 279.98
+      },
+      "trustpilot": 4.7,
+      "gphc": 9012252,
+      "additional_support": true,
+      "subscription": false,
+      "discounts": "Offer Details"
     },
     {
       "pharmacy_name": "Pills2U",
@@ -917,7 +951,7 @@
         "12.5mg": 304.98,
         "15mg": 317.99
       },
-      "trustpilot": 3.6,
+      "trustpilot": 3.7,
       "gphc": 9011779,
       "additional_support": false,
       "subscription": false,
@@ -951,7 +985,7 @@
         "12.5mg": 329.0,
         "15mg": 349.0
       },
-      "trustpilot": 4.5,
+      "trustpilot": 4.6,
       "gphc": 9013068,
       "additional_support": true,
       "subscription": true,
@@ -997,16 +1031,16 @@
       "prices": {
         "2.5mg": 140.0,
         "5mg": 165.0,
-        "7.5mg": 225.0,
+        "7.5mg": 230.0,
         "10mg": 250.0,
         "12.5mg": 265.0,
-        "15mg": 305.0
+        "15mg": 300.0
       },
-      "trustpilot": 4.5,
+      "trustpilot": 4.6,
       "gphc": 1031513,
       "additional_support": true,
       "subscription": false,
-      "discounts": "Latest Offer Details"
+      "discounts": "Up to £25 Off First Orders"
     },
     {
       "pharmacy_name": "Slinic",
@@ -1019,7 +1053,7 @@
         "12.5mg": 251.99,
         "15mg": 271.99
       },
-      "trustpilot": 4.6,
+      "trustpilot": 4.7,
       "gphc": 1033729,
       "additional_support": false,
       "subscription": false,
