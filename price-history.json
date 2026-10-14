@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-10-13T06:01:45+04:00",
+    "last_scraped": "2026-10-14T06:01:41+04:00",
     "total_pharmacies": 79
   },
   "pharmacies": [
@@ -48,7 +48,7 @@
         "7.5mg": 231.48,
         "10mg": 256.48,
         "12.5mg": 276.48,
-        "15mg": 301.48
+        "15mg": 291.48
       },
       "trustpilot": 4.8,
       "gphc": 9012896,
@@ -315,12 +315,12 @@
       "pharmacy_name": "G-1 Nutrition",
       "pharmacy_url": "https://monj.co.uk/g1-nutrition-discount-codes/",
       "prices": {
-        "2.5mg": 150.0,
+        "2.5mg": 120.0,
         "5mg": 150.0,
-        "7.5mg": 223.0,
-        "10mg": 248.0,
-        "12.5mg": 265.0,
-        "15mg": 285.0
+        "7.5mg": 183.0,
+        "10mg": 203.0,
+        "12.5mg": 217.0,
+        "15mg": 234.0
       },
       "trustpilot": 4.4,
       "gphc": 9010938,
@@ -419,10 +419,10 @@
       "prices": {
         "2.5mg": 159.99,
         "5mg": 181.99,
-        "7.5mg": 254.99,
-        "10mg": 279.99,
-        "12.5mg": 293.99,
-        "15mg": 313.99
+        "7.5mg": 233.94,
+        "10mg": 256.98,
+        "12.5mg": 274.98,
+        "15mg": 294.94
       },
       "trustpilot": 4.7,
       "gphc": 9012957,
@@ -615,7 +615,7 @@
       "gphc": 9012559,
       "additional_support": true,
       "subscription": true,
-      "discounts": "Up to £107 Off First Orders"
+      "discounts": "Up to £109 Off First Orders"
     },
     {
       "pharmacy_name": "Medino",
@@ -893,18 +893,18 @@
       "pharmacy_name": "Pills2U",
       "pharmacy_url": "https://monj.co.uk/pills2u-discount-codes/",
       "prices": {
-        "2.5mg": 145.99,
-        "5mg": 164.98,
-        "7.5mg": 218.98,
-        "10mg": 243.99,
-        "12.5mg": 264.99,
-        "15mg": 289.99
+        "2.5mg": 139.99,
+        "5mg": 158.98,
+        "7.5mg": 213.99,
+        "10mg": 239.99,
+        "12.5mg": 259.99,
+        "15mg": 281.99
       },
       "trustpilot": 4.5,
       "gphc": 9013275,
       "additional_support": false,
       "subscription": false,
-      "discounts": "£20 Off First Orders"
+      "discounts": "£15 Off First Orders"
     },
     {
       "pharmacy_name": "PillSorted",
