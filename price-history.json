@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-10-16T06:01:23+04:00",
+    "last_scraped": "2026-10-17T06:01:46+04:00",
     "total_pharmacies": 79
   },
   "pharmacies": [
@@ -292,7 +292,7 @@
       "gphc": 9012851,
       "additional_support": true,
       "subscription": false,
-      "discounts": "New Customers: Up to 33.4% Off & Up to £25 Off Future Orders"
+      "discounts": "New Customers: Up to 33% Off & Up to £25 Off Future Orders"
     },
     {
       "pharmacy_name": "Fylde Clinic",
@@ -598,7 +598,7 @@
       "gphc": 1116946,
       "additional_support": false,
       "subscription": false,
-      "discounts": "Latest Offer Details"
+      "discounts": "£10 Off First Orders"
     },
     {
       "pharmacy_name": "Medicspot",
@@ -615,7 +615,7 @@
       "gphc": 9012559,
       "additional_support": true,
       "subscription": true,
-      "discounts": "Up to £109 Off First Orders"
+      "discounts": "Up to £109.05 Off First Orders"
     },
     {
       "pharmacy_name": "Medino",
@@ -683,7 +683,7 @@
       "gphc": 9012851,
       "additional_support": true,
       "subscription": false,
-      "discounts": "New Customers: 33.4% Off & Up to £25 Off Future Orders"
+      "discounts": "New Customers: 33% Off & Up to £25 Off Future Orders"
     },
     {
       "pharmacy_name": "New Health",
@@ -696,11 +696,11 @@
         "12.5mg": 290.0,
         "15mg": 315.0
       },
-      "trustpilot": 3.9,
+      "trustpilot": 4.0,
       "gphc": 9011199,
       "additional_support": true,
       "subscription": false,
-      "discounts": "An Extra £12 Off First Orders"
+      "discounts": "An Extra £15 Off First Orders"
     },
     {
       "pharmacy_name": "Next Script",
@@ -791,18 +791,18 @@
       "pharmacy_name": "Oushk",
       "pharmacy_url": "https://monj.co.uk/oushk-discounts-codes/",
       "prices": {
-        "2.5mg": 175.99,
-        "5mg": 195.99,
-        "7.5mg": 250.99,
-        "10mg": 285.99,
-        "12.5mg": 296.99,
-        "15mg": 316.99
+        "2.5mg": 173.99,
+        "5mg": 193.99,
+        "7.5mg": 248.99,
+        "10mg": 283.99,
+        "12.5mg": 294.99,
+        "15mg": 314.99
       },
       "trustpilot": 4.6,
       "gphc": 9013104,
       "additional_support": true,
       "subscription": false,
-      "discounts": "£40 Off 1st Orders | £18 Off Return"
+      "discounts": "£40 Off 1st Orders | £15 Off Return"
     },
     {
       "pharmacy_name": "Pharmacy Advance",
@@ -1142,7 +1142,7 @@
       "gphc": 9012915,
       "additional_support": true,
       "subscription": true,
-      "discounts": "New: £60 Off 2.5mg | £40 Off All Other Doses | Existing: £10 Off"
+      "discounts": "Latest offer"
     },
     {
       "pharmacy_name": "The Independent Pharmacy",
