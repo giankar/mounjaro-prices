@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-10-18T06:01:43+04:00",
+    "last_scraped": "2026-10-19T06:02:37+04:00",
     "total_pharmacies": 79
   },
   "pharmacies": [
@@ -288,7 +288,7 @@
         "12.5mg": 279.0,
         "15mg": 299.0
       },
-      "trustpilot": 4.5,
+      "trustpilot": 4.4,
       "gphc": 9012851,
       "additional_support": true,
       "subscription": false,
@@ -615,7 +615,7 @@
       "gphc": 9012559,
       "additional_support": true,
       "subscription": true,
-      "discounts": "Up to £109.05 Off First Orders"
+      "discounts": "Up to £111 Off First Orders"
     },
     {
       "pharmacy_name": "Medino",
@@ -628,7 +628,7 @@
         "12.5mg": 299.99,
         "15mg": 319.99
       },
-      "trustpilot": 4.9,
+      "trustpilot": 4.8,
       "gphc": 9011921,
       "additional_support": false,
       "subscription": false,
@@ -900,7 +900,7 @@
         "12.5mg": 259.99,
         "15mg": 281.99
       },
-      "trustpilot": 4.5,
+      "trustpilot": 4.6,
       "gphc": 9013275,
       "additional_support": false,
       "subscription": false,
