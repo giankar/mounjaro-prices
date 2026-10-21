@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-10-20T06:01:47+04:00",
-    "total_pharmacies": 79
+    "last_scraped": "2026-10-21T06:02:36+04:00",
+    "total_pharmacies": 81
   },
   "pharmacies": [
     {
@@ -159,10 +159,27 @@
       "discounts": "£20 Off 1st Orders | £10 Off Return Orders"
     },
     {
+      "pharmacy_name": "Curate",
+      "pharmacy_url": "https://monj.co.uk/curate-discount-codes/",
+      "prices": {
+        "2.5mg": 105.0,
+        "5mg": 125.0,
+        "7.5mg": 175.0,
+        "10mg": 205.0,
+        "12.5mg": 215.0,
+        "15mg": 235.0
+      },
+      "trustpilot": 3.9,
+      "gphc": 9012920,
+      "additional_support": false,
+      "subscription": false,
+      "discounts": "Offer Details"
+    },
+    {
       "pharmacy_name": "Curely",
       "pharmacy_url": "https://monj.co.uk/curely-discount-codes/",
       "prices": {
-        "2.5mg": 125.0,
+        "2.5mg": 121.0,
         "5mg": 185.0,
         "7.5mg": 238.0,
         "10mg": 260.0,
@@ -652,6 +669,23 @@
       "discounts": "Medy Offers"
     },
     {
+      "pharmacy_name": "Molecule",
+      "pharmacy_url": "https://monj.co.uk/molecule-discount-code/",
+      "prices": {
+        "2.5mg": 149.0,
+        "5mg": 169.0,
+        "7.5mg": 229.0,
+        "10mg": 259.0,
+        "12.5mg": 289.0,
+        "15mg": 309.0
+      },
+      "trustpilot": 4.6,
+      "gphc": 9011284,
+      "additional_support": false,
+      "subscription": false,
+      "discounts": "Up to £81 Off First Orders"
+    },
+    {
       "pharmacy_name": "MSH Weight Loss",
       "pharmacy_url": "https://www.mshweightloss.co.uk/?utm_source=monj",
       "prices": {
@@ -1063,18 +1097,18 @@
       "pharmacy_name": "SuperDrug",
       "pharmacy_url": "https://onlinepharmacy.superdrug.com/",
       "prices": {
-        "2.5mg": 180.5,
-        "5mg": 193.5,
-        "7.5mg": 271.5,
-        "10mg": 306.5,
-        "12.5mg": 318.5,
-        "15mg": 338.5
+        "2.5mg": 183.5,
+        "5mg": 203.5,
+        "7.5mg": 263.5,
+        "10mg": 303.5,
+        "12.5mg": 323.5,
+        "15mg": 343.5
       },
       "trustpilot": 4.5,
       "gphc": 9010736,
       "additional_support": false,
       "subscription": false,
-      "discounts": "Discount information"
+      "discounts": "Discount Information"
     },
     {
       "pharmacy_name": "Swift Doctor",
@@ -1131,12 +1165,12 @@
       "pharmacy_name": "The Family Chemist",
       "pharmacy_url": "https://monj.co.uk/the-family-chemist-discount-codes-and-savings-vouchers/",
       "prices": {
-        "2.5mg": 144.99,
-        "5mg": 158.99,
-        "7.5mg": 214.99,
-        "10mg": 238.99,
-        "12.5mg": 258.99,
-        "15mg": 273.99
+        "2.5mg": 164.99,
+        "5mg": 178.99,
+        "7.5mg": 234.99,
+        "10mg": 258.99,
+        "12.5mg": 278.99,
+        "15mg": 293.99
       },
       "trustpilot": 4.8,
       "gphc": 9012915,
