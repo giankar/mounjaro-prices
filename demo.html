@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mounjaro UK Price Tracker — Demo</title>
+<style>
+  body { margin: 0; padding: 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f3f4f6; }
+  .demo-container { max-width: 1200px; margin: 0 auto; }
+  .demo-header { text-align: center; margin-bottom: 32px; }
+  .demo-header h1 { color: #1e3a5f; margin: 0 0 8px; }
+  .demo-header p { color: #6b7280; max-width: 600px; margin: 0 auto; }
+  .demo-embed-code { background: #1f2937; color: #e5e7eb; padding: 16px 20px; border-radius: 8px; font-size: 13px; font-family: 'SF Mono', 'Fira Code', monospace; overflow-x: auto; margin: 24px 0; }
+  .demo-embed-code .tag { color: #f472b6; }
+  .demo-embed-code .attr { color: #67e8f9; }
+  .demo-embed-code .comment { color: #6b7280; }
+</style>
+</head>
+<body>
+<div class="demo-container">
+  <div class="demo-header">
+    <h1>💊 Mounjaro UK Retail Price Tracker</h1>
+    <p>Live, non-discounted prices from 65+ UK pharmacies. Data refreshed daily. This widget is self-contained — drop it into any website.</p>
+  </div>
+
+  <div class="demo-embed-code">
+    <span class="comment">&lt;!-- 1. Add this div where you want the widget --&gt;</span><br>
+    <span class="tag">&lt;div</span> <span class="attr">id</span>=<span class="attr">"mounjaro-widget"</span><span class="tag">&gt;&lt;/div&gt;</span><br><br>
+    <span class="comment">&lt;!-- 2. Include the widget script --&gt;</span><br>
+    <span class="tag">&lt;script</span> <span class="attr">src</span>=<span class="attr">"/mounjaro-prices/widget.js"</span><span class="tag">&gt;&lt;/script&gt;</span>
+  </div>
+
+  <!-- Widget target -->
+  <div id="mounjaro-widget"></div>
+</div>
+
+<!-- Widget script (update DATA_BASE path for production) -->
+<script src="widget.js"></script>
+</body>
+</html>

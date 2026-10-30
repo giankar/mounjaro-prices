@@ -1,0 +1,1076 @@
+{
+  "date": "2026-06-03",
+  "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
+  "scraped_at": "2026-06-03T06:00:00+04:00",
+  "total_pharmacies": 65,
+  "dosages": [
+    "2.5mg",
+    "5mg",
+    "7.5mg",
+    "10mg",
+    "12.5mg",
+    "15mg"
+  ],
+  "stats": {
+    "2.5mg_min": 130.0,
+    "2.5mg_max": 239.0,
+    "2.5mg_avg": 165.58,
+    "5mg_min": 153.0,
+    "5mg_max": 259.0,
+    "5mg_avg": 188.34,
+    "7.5mg_min": 204.99,
+    "7.5mg_max": 304.0,
+    "7.5mg_avg": 244.06,
+    "10mg_min": 229.0,
+    "10mg_max": 329.0,
+    "10mg_avg": 271.5,
+    "12.5mg_min": 246.0,
+    "12.5mg_max": 349.0,
+    "12.5mg_avg": 289.56,
+    "15mg_min": 266.0,
+    "15mg_max": 369.0,
+    "15mg_avg": 307.33
+  },
+  "pharmacies": [
+    {
+      "name": "Asda",
+      "url": "https://monj.co.uk/asda-online-doctor-discount-codes/",
+      "prices": {
+        "2.5mg": 172.47,
+        "5mg": 192.47,
+        "7.5mg": 252.47,
+        "10mg": 282.47,
+        "12.5mg": 292.47,
+        "15mg": 302.47
+      },
+      "trustpilot": 4.5,
+      "gphc": "1116105",
+      "subscription": null,
+      "discounts": null
+    },
+    {
+      "name": "Ashcroft Pharmacy",
+      "url": "https://monj.co.uk/ashcroft-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 156.98,
+        "5mg": 171.98,
+        "7.5mg": 231.98,
+        "10mg": 256.98,
+        "12.5mg": 276.98,
+        "15mg": 301.98
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012896",
+      "subscription": null,
+      "discounts": "\u00a317 Off 1st Orders"
+    },
+    {
+      "name": "Ayp Healthcare",
+      "url": "https://monj.co.uk/ayp-healthcare-discount-codes/",
+      "prices": {
+        "2.5mg": 137.99,
+        "5mg": 157.99,
+        "7.5mg": 208.99,
+        "10mg": 235.99,
+        "12.5mg": 247.99,
+        "15mg": 269.99
+      },
+      "trustpilot": 3.9,
+      "gphc": "9011523",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Bolt Pharmacy",
+      "url": "https://monj.co.uk/bolt-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 169.0,
+        "5mg": 199.0,
+        "7.5mg": 259.0,
+        "10mg": 289.0,
+        "12.5mg": 309.0,
+        "15mg": 319.0
+      },
+      "trustpilot": 4.5,
+      "gphc": "9012918",
+      "subscription": "SUB",
+      "discounts": "\u00a340 Off 1st Orders"
+    },
+    {
+      "name": "Boots",
+      "url": "https://www.boots.com/online/pharmacy/",
+      "prices": {
+        "2.5mg": 176.97,
+        "5mg": 189.97,
+        "7.5mg": 267.97,
+        "10mg": 302.97,
+        "12.5mg": 314.97,
+        "15mg": 334.97
+      },
+      "trustpilot": 4.4,
+      "gphc": "1034053",
+      "subscription": null,
+      "discounts": null
+    },
+    {
+      "name": "Chequp",
+      "url": "https://monj.co.uk/chequp-health-discount-codes/",
+      "prices": {
+        "2.5mg": 162.99,
+        "5mg": 202.99,
+        "7.5mg": 262.99,
+        "10mg": 292.99,
+        "12.5mg": 302.99,
+        "15mg": 332.99
+      },
+      "trustpilot": 4.4,
+      "gphc": "9011284",
+      "subscription": "AS/SUB",
+      "discounts": null
+    },
+    {
+      "name": "Click 2 Pharmacy",
+      "url": "https://monj.co.uk/click2pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 150.98,
+        "5mg": 178.98,
+        "7.5mg": 227.98,
+        "10mg": 254.98,
+        "12.5mg": 274.98,
+        "15mg": 293.98
+      },
+      "trustpilot": 4.8,
+      "gphc": "1033781",
+      "subscription": null,
+      "discounts": "\u00a320 Off 1st Orders | \u00a310 Off Return Orders"
+    },
+    {
+      "name": "Curate",
+      "url": "https://monj.co.uk/curate-discount-codes/",
+      "prices": {
+        "2.5mg": 189.0,
+        "5mg": 199.0,
+        "7.5mg": 259.0,
+        "10mg": 289.0,
+        "12.5mg": 309.0,
+        "15mg": 329.0
+      },
+      "trustpilot": 3.9,
+      "gphc": "9012920",
+      "subscription": null,
+      "discounts": "25% Off 2.5mg,5mg & 7.5mg | \u00a330 Off 10mg,12.5mg & 15mg"
+    },
+    {
+      "name": "Curely",
+      "url": "https://monj.co.uk/curely-discount-codes/",
+      "prices": {
+        "2.5mg": 139.59,
+        "5mg": 185.0,
+        "7.5mg": 238.0,
+        "10mg": 260.0,
+        "12.5mg": 289.0,
+        "15mg": 305.0
+      },
+      "trustpilot": 4.6,
+      "gphc": "9012401",
+      "subscription": "SUB",
+      "discounts": "15% Off Subscriptions | 5% Off PAYG"
+    },
+    {
+      "name": "Cuva Health",
+      "url": "https://monj.co.uk/cuva-health-discount-codes/",
+      "prices": {
+        "2.5mg": 143.98,
+        "5mg": 178.98,
+        "7.5mg": 233.98,
+        "10mg": 263.98,
+        "12.5mg": 283.98,
+        "15mg": 303.98
+      },
+      "trustpilot": 4.9,
+      "gphc": "9012581",
+      "subscription": null,
+      "discounts": "\u00a315 Off 2.5mg | \u00a335 Off 5mg to 15mg"
+    },
+    {
+      "name": "Dotor",
+      "url": "https://monj.co.uk/dotor-discounts-codes-savings/",
+      "prices": {
+        "2.5mg": 179.94,
+        "5mg": 199.94,
+        "7.5mg": 254.94,
+        "10mg": 284.94,
+        "12.5mg": 304.94,
+        "15mg": 314.94
+      },
+      "trustpilot": 4.3,
+      "gphc": "9012775",
+      "subscription": null,
+      "discounts": "\u00a340 Off All Orders"
+    },
+    {
+      "name": "Dr Weightmans",
+      "url": "https://monj.co.uk/dr-weightmans-discount-codes/",
+      "prices": {
+        "2.5mg": 149.99,
+        "5mg": 164.99,
+        "7.5mg": 218.99,
+        "10mg": 239.99,
+        "12.5mg": 259.99,
+        "15mg": 284.99
+      },
+      "trustpilot": 4.9,
+      "gphc": "1092500",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "e-Surgery",
+      "url": "https://monj.co.uk/e-surgery-discount-codes-and-latest-savings-2026/",
+      "prices": {
+        "2.5mg": 176.46,
+        "5mg": 211.71,
+        "7.5mg": 282.29,
+        "10mg": 317.59,
+        "12.5mg": 341.13,
+        "15mg": 359.95
+      },
+      "trustpilot": 4.7,
+      "gphc": "9012167",
+      "subscription": "SUB",
+      "discounts": "\u00a340 Off First Orders"
+    },
+    {
+      "name": "Envigore",
+      "url": "https://monj.co.uk/envigore-discount-codes-and-savings/",
+      "prices": {
+        "2.5mg": 225.0,
+        "5mg": 254.0,
+        "7.5mg": 304.0,
+        "10mg": 310.0,
+        "12.5mg": 334.0,
+        "15mg": 344.0
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012382",
+      "subscription": null,
+      "discounts": "\u00a35 Off First Order"
+    },
+    {
+      "name": "Farmeci",
+      "url": "https://monj.co.uk/farmeci-discount-code/",
+      "prices": {
+        "2.5mg": 145.0,
+        "5mg": 179.0,
+        "7.5mg": 239.0,
+        "10mg": 259.0,
+        "12.5mg": 279.0,
+        "15mg": 299.0
+      },
+      "trustpilot": 4.6,
+      "gphc": "9010938",
+      "subscription": null,
+      "discounts": "NEW ONLY: 25% OFF 2.5MG | 10% OFF OTHERS"
+    },
+    {
+      "name": "GenMeds",
+      "url": "https://monj.co.uk/genmeds-discounts-codes-savings/",
+      "prices": {
+        "2.5mg": 184.98,
+        "5mg": 204.98,
+        "7.5mg": 254.98,
+        "10mg": 284.98,
+        "12.5mg": 304.98,
+        "15mg": 314.98
+      },
+      "trustpilot": 4.8,
+      "gphc": "9013006",
+      "subscription": null,
+      "discounts": "\u00a350-\u00a385 Off 1st Orders | \u00a330 Off Return Orders"
+    },
+    {
+      "name": "Get A Drip",
+      "url": "https://monj.co.uk/get-a-drip-discounts-codes/",
+      "prices": {
+        "2.5mg": 159.0,
+        "5mg": 179.0,
+        "7.5mg": 229.0,
+        "10mg": 259.0,
+        "12.5mg": 279.0,
+        "15mg": 299.0
+      },
+      "trustpilot": 3.3,
+      "gphc": "9012347",
+      "subscription": "SUB",
+      "discounts": "\u00a330 to \u00a356 Off First Orders"
+    },
+    {
+      "name": "Get Weightloss",
+      "url": "https://monj.co.uk/get-weightloss-discount-codes/",
+      "prices": {
+        "2.5mg": 133.99,
+        "5mg": 160.0,
+        "7.5mg": 208.5,
+        "10mg": 238.47,
+        "12.5mg": 247.98,
+        "15mg": 269.0
+      },
+      "trustpilot": 4.7,
+      "gphc": "9011648",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Goodbody Clinic",
+      "url": "https://monj.co.uk/goodbody-clinic-discount-codes/",
+      "prices": {
+        "2.5mg": 239.0,
+        "5mg": 259.0,
+        "7.5mg": 299.0,
+        "10mg": 329.0,
+        "12.5mg": 349.0,
+        "15mg": 369.0
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012347",
+      "subscription": "AS/SUB",
+      "discounts": "\u00a380 Off First Orders"
+    },
+    {
+      "name": "Happy Pharmacy",
+      "url": "https://monj.co.uk/happy-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 144.24,
+        "5mg": 179.24,
+        "7.5mg": 234.24,
+        "10mg": 259.24,
+        "12.5mg": 274.24,
+        "15mg": 304.24
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012585",
+      "subscription": null,
+      "discounts": "10% Off First Orders"
+    },
+    {
+      "name": "Hey Slim",
+      "url": "https://monj.co.uk/heyslim-discount-codes/",
+      "prices": {
+        "2.5mg": 169.0,
+        "5mg": 189.0,
+        "7.5mg": 249.0,
+        "10mg": 279.0,
+        "12.5mg": 299.0,
+        "15mg": 309.0
+      },
+      "trustpilot": 4.2,
+      "gphc": "9012739",
+      "subscription": null,
+      "discounts": "\u00a330 Off 1st Orders"
+    },
+    {
+      "name": "IQ Doctor",
+      "url": "https://monj.co.uk/iq-doctor-discount-codes/",
+      "prices": {
+        "2.5mg": 179.99,
+        "5mg": 199.99,
+        "7.5mg": 249.99,
+        "10mg": 279.99,
+        "12.5mg": 299.99,
+        "15mg": 309.99
+      },
+      "trustpilot": 4.6,
+      "gphc": "9010411",
+      "subscription": null,
+      "discounts": "Up to \u00a380 Off | \u00a320 Return Orders"
+    },
+    {
+      "name": "Jood Life",
+      "url": "https://monj.co.uk/jood-life-discount-code/",
+      "prices": {
+        "2.5mg": 139.0,
+        "5mg": 153.0,
+        "7.5mg": 205.0,
+        "10mg": 230.0,
+        "12.5mg": 247.0,
+        "15mg": 269.0
+      },
+      "trustpilot": 4.3,
+      "gphc": "9012739",
+      "subscription": null,
+      "discounts": "\u00a310 Off First Orders"
+    },
+    {
+      "name": "Juniper",
+      "url": "https://monj.co.uk/juniper-discount-codes/",
+      "prices": {
+        "2.5mg": 199.0,
+        "5mg": 229.0,
+        "7.5mg": 279.0,
+        "10mg": 304.0,
+        "12.5mg": 329.0,
+        "15mg": 339.0
+      },
+      "trustpilot": 4.5,
+      "gphc": "9011842",
+      "subscription": "AS/SUB",
+      "discounts": "\u00a350-\u00a365 Off 1st Orders"
+    },
+    {
+      "name": "Live Well Weight Loss",
+      "url": "https://monj.co.uk/livewell-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 147.95,
+        "5mg": 172.95,
+        "7.5mg": 228.95,
+        "10mg": 252.95,
+        "12.5mg": 272.95,
+        "15mg": 292.95
+      },
+      "trustpilot": 4.7,
+      "gphc": "9011842",
+      "subscription": "AS",
+      "discounts": "\u00a35 Off 1st Orders"
+    },
+    {
+      "name": "Lloyds Pharmacy",
+      "url": "https://monj.co.uk/lloyds-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 185.94,
+        "5mg": 195.94,
+        "7.5mg": 255.94,
+        "10mg": 285.94,
+        "12.5mg": 305.94,
+        "15mg": 315.94
+      },
+      "trustpilot": 4.3,
+      "gphc": "9011437",
+      "subscription": null,
+      "discounts": "\u00a340 Off 1st Orders"
+    },
+    {
+      "name": "Lotus Weight Loss",
+      "url": "https://monj.co.uk/lotus-weight-loss-discounts-and-codes/",
+      "prices": {
+        "2.5mg": 154.0,
+        "5mg": 168.0,
+        "7.5mg": 221.0,
+        "10mg": 246.0,
+        "12.5mg": 268.0,
+        "15mg": 284.0
+      },
+      "trustpilot": 4.3,
+      "gphc": "9010938",
+      "subscription": "AS",
+      "discounts": "\u00a350 off 2.5mg | \u00a325 off all other doses \u00b7 1st order only"
+    },
+    {
+      "name": "Manchester Chemist",
+      "url": "https://monj.co.uk/manchester-chemist-discount-codes-offers/",
+      "prices": {
+        "2.5mg": 139.0,
+        "5mg": 159.0,
+        "7.5mg": 219.0,
+        "10mg": 244.0,
+        "12.5mg": 259.0,
+        "15mg": 269.0
+      },
+      "trustpilot": 4.7,
+      "gphc": "9010938",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "MedExpress",
+      "url": "https://monj.co.uk/medexpress-discount-codes/",
+      "prices": {
+        "2.5mg": 183.94,
+        "5mg": 193.94,
+        "7.5mg": 253.94,
+        "10mg": 283.94,
+        "12.5mg": 303.94,
+        "15mg": 313.94
+      },
+      "trustpilot": 4.2,
+      "gphc": "9012633",
+      "subscription": null,
+      "discounts": "\u00a350 Off First Orders"
+    },
+    {
+      "name": "Medhut",
+      "url": "https://monj.co.uk/medhut-discount-codes/",
+      "prices": {
+        "2.5mg": 135.99,
+        "5mg": 159.99,
+        "7.5mg": 207.99,
+        "10mg": 236.99,
+        "12.5mg": 254.99,
+        "15mg": 274.99
+      },
+      "trustpilot": 4.6,
+      "gphc": "9012752",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Medicine Marketplace",
+      "url": "https://monj.co.uk/medicine-marketplace-discount-codes/",
+      "prices": {
+        "2.5mg": 137.0,
+        "5mg": 154.0,
+        "7.5mg": 205.0,
+        "10mg": 229.0,
+        "12.5mg": 246.0,
+        "15mg": 266.0
+      },
+      "trustpilot": 4.6,
+      "gphc": "1116946",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Medino",
+      "url": "https://monj.co.uk/medino-discounts-and-codes/",
+      "prices": {
+        "2.5mg": 147.49,
+        "5mg": 169.99,
+        "7.5mg": 249.99,
+        "10mg": 269.99,
+        "12.5mg": 299.99,
+        "15mg": 319.99
+      },
+      "trustpilot": 4.8,
+      "gphc": "9011921",
+      "subscription": null,
+      "discounts": "10% Off 1st Orders | 5% Off Return Orders"
+    },
+    {
+      "name": "MSH Weight Loss",
+      "url": "https://monj.co.uk/msh-weight-loss-discount-codes/",
+      "prices": {
+        "2.5mg": 189.0,
+        "5mg": 209.0,
+        "7.5mg": 249.0,
+        "10mg": 289.0,
+        "12.5mg": 299.0,
+        "15mg": 319.0
+      },
+      "trustpilot": 4.5,
+      "gphc": "1039469",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "My London Pharmacy",
+      "url": "https://monj.co.uk/my-london-london-pharmacy-discount-code/",
+      "prices": {
+        "2.5mg": 145.0,
+        "5mg": 179.0,
+        "7.5mg": 239.0,
+        "10mg": 259.0,
+        "12.5mg": 279.0,
+        "15mg": 299.0
+      },
+      "trustpilot": 4.6,
+      "gphc": "9011790",
+      "subscription": null,
+      "discounts": "NEW ONLY: 25% OFF 2.5MG | 10% OFF OTHERS"
+    },
+    {
+      "name": "Next Script",
+      "url": "https://monj.co.uk/next-script-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 131.0,
+        "5mg": 154.0,
+        "7.5mg": 204.99,
+        "10mg": 230.0,
+        "12.5mg": 246.0,
+        "15mg": 266.0
+      },
+      "trustpilot": 4.0,
+      "gphc": "9012568",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Nulife Pharmacy",
+      "url": "https://monj.co.uk/nulife-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 133.99,
+        "5mg": 158.99,
+        "7.5mg": 206.99,
+        "10mg": 235.99,
+        "12.5mg": 250.99,
+        "15mg": 270.99
+      },
+      "trustpilot": 4.6,
+      "gphc": "9012931",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Numan",
+      "url": "https://monj.co.uk/numan-discounts-codes/",
+      "prices": {
+        "2.5mg": 209.0,
+        "5mg": 239.0,
+        "7.5mg": 289.0,
+        "10mg": 309.0,
+        "12.5mg": 329.0,
+        "15mg": 339.0
+      },
+      "trustpilot": 4.6,
+      "gphc": "9011408",
+      "subscription": "AS/SUB",
+      "discounts": null
+    },
+    {
+      "name": "OnlineMeds",
+      "url": "https://monj.co.uk/onlinemeds-discount-codes-and-offers/",
+      "prices": {
+        "2.5mg": 167.99,
+        "5mg": 182.49,
+        "7.5mg": 233.99,
+        "10mg": 258.49,
+        "12.5mg": 279.99,
+        "15mg": 299.99
+      },
+      "trustpilot": 4.7,
+      "gphc": "9012658",
+      "subscription": null,
+      "discounts": "\u00a330 Off 1st Orders"
+    },
+    {
+      "name": "Oushk",
+      "url": "https://www.oushkpharmacy.com/",
+      "prices": {
+        "2.5mg": 173.99,
+        "5mg": 179.98,
+        "7.5mg": 232.98,
+        "10mg": 283.99,
+        "12.5mg": 276.99,
+        "15mg": 314.99
+      },
+      "trustpilot": 4.6,
+      "gphc": "9012610",
+      "subscription": null,
+      "discounts": "\u00a330 Off 1st Orders | \u00a320 Off Return Orders"
+    },
+    {
+      "name": "Pharmacy Advance",
+      "url": "https://pharmacyadvance.co.uk/",
+      "prices": {
+        "2.5mg": 154.99,
+        "5mg": 174.99,
+        "7.5mg": 244.99,
+        "10mg": 274.99,
+        "12.5mg": 294.99,
+        "15mg": 314.99
+      },
+      "trustpilot": 4.3,
+      "gphc": "9012423",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Pharmacy Express",
+      "url": "https://monj.co.uk/pharmacy-express-dsicount-codes/",
+      "prices": {
+        "2.5mg": 144.99,
+        "5mg": 164.99,
+        "7.5mg": 224.99,
+        "10mg": 244.99,
+        "12.5mg": 264.99,
+        "15mg": 284.99
+      },
+      "trustpilot": 5.0,
+      "gphc": "9012468",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Pharmacy2U",
+      "url": "https://monj.co.uk/pharmacy2u-discount-codes/",
+      "prices": {
+        "2.5mg": 176.24,
+        "5mg": 196.24,
+        "7.5mg": 251.24,
+        "10mg": 286.24,
+        "12.5mg": 296.24,
+        "15mg": 306.24
+      },
+      "trustpilot": 4.6,
+      "gphc": "9010146",
+      "subscription": null,
+      "discounts": "Upto \u00a375 Off 1st Orders"
+    },
+    {
+      "name": "Pharmica",
+      "url": "https://monj.co.uk/pharmica-discount-codes-savings-offers/",
+      "prices": {
+        "2.5mg": 159.99,
+        "5mg": 199.99,
+        "7.5mg": 259.99,
+        "10mg": 284.99,
+        "12.5mg": 309.99,
+        "15mg": 319.99
+      },
+      "trustpilot": 4.9,
+      "gphc": "9012030",
+      "subscription": null,
+      "discounts": "\u00a335 Off 1st Order | \u00a320 Off Return Orders"
+    },
+    {
+      "name": "Pharmulous",
+      "url": "https://pharmulous.co.uk/",
+      "prices": {
+        "2.5mg": 144.98,
+        "5mg": 169.98,
+        "7.5mg": 219.98,
+        "10mg": 244.98,
+        "12.5mg": 264.98,
+        "15mg": 279.98
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012252",
+      "subscription": null,
+      "discounts": null
+    },
+    {
+      "name": "Pills2U",
+      "url": "https://monj.co.uk/pills2u-discount-codes/",
+      "prices": {
+        "2.5mg": 145.99,
+        "5mg": 164.98,
+        "7.5mg": 218.98,
+        "10mg": 243.99,
+        "12.5mg": 264.99,
+        "15mg": 289.99
+      },
+      "trustpilot": 4.6,
+      "gphc": "9012634",
+      "subscription": null,
+      "discounts": "\u00a310 Off 1st Orders"
+    },
+    {
+      "name": "PillSorted",
+      "url": "https://monj.co.uk/pillsorted-discount-code-voucher-for-weight-loss-treatment/",
+      "prices": {
+        "2.5mg": 185.98,
+        "5mg": 205.98,
+        "7.5mg": 255.98,
+        "10mg": 285.98,
+        "12.5mg": 305.98,
+        "15mg": 315.98
+      },
+      "trustpilot": 4.7,
+      "gphc": "9011258",
+      "subscription": null,
+      "discounts": "\u00a340 Off 1st Orders"
+    },
+    {
+      "name": "PillSphere",
+      "url": "https://monj.co.uk/pillsphere-discount-codes",
+      "prices": {
+        "2.5mg": 165.99,
+        "5mg": 187.99,
+        "7.5mg": 238.99,
+        "10mg": 265.99,
+        "12.5mg": 287.99,
+        "15mg": 299.99
+      },
+      "trustpilot": 4.5,
+      "gphc": "9012694",
+      "subscription": null,
+      "discounts": null
+    },
+    {
+      "name": "Second Nature",
+      "url": "https://monj.co.uk/second-nature-discount-codes-savings-and-offers/",
+      "prices": {
+        "2.5mg": 229.0,
+        "5mg": 259.0,
+        "7.5mg": 289.0,
+        "10mg": 309.0,
+        "12.5mg": 329.0,
+        "15mg": 349.0
+      },
+      "trustpilot": 4.5,
+      "gphc": "9013068",
+      "subscription": "AS/SUB",
+      "discounts": "\u00a350 Off 1st Orders"
+    },
+    {
+      "name": "Shape8",
+      "url": "https://monj.co.uk/shape8-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 168.99,
+        "5mg": 188.94,
+        "7.5mg": 243.99,
+        "10mg": 266.99,
+        "12.5mg": 287.99,
+        "15mg": 308.99
+      },
+      "trustpilot": 3.9,
+      "gphc": "1124246",
+      "subscription": null,
+      "discounts": "\u00a345 Off 1st Orders"
+    },
+    {
+      "name": "Simple Online Pharmacy",
+      "url": "https://monj.co.uk/simple-online-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 173.0,
+        "5mg": 203.99,
+        "7.5mg": 263.99,
+        "10mg": 303.99,
+        "12.5mg": 313.99,
+        "15mg": 323.99
+      },
+      "trustpilot": 4.7,
+      "gphc": "9011287",
+      "subscription": null,
+      "discounts": "\u00a340 Off 1st Orders"
+    },
+    {
+      "name": "Skin & Shape",
+      "url": "https://monj.co.uk/skin-and-shape-discount-codes/",
+      "prices": {
+        "2.5mg": 174.99,
+        "5mg": 199.99,
+        "7.5mg": 249.99,
+        "10mg": 279.99,
+        "12.5mg": 299.99,
+        "15mg": 309.99
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012790",
+      "subscription": null,
+      "discounts": "\u00a340 Off 1st Orders | \u00a325 Off Return Orders"
+    },
+    {
+      "name": "Slimming Direct",
+      "url": "https://monj.co.uk/slimming-direct-discount-codes/",
+      "prices": {
+        "2.5mg": 130.0,
+        "5mg": 165.0,
+        "7.5mg": 230.0,
+        "10mg": 250.0,
+        "12.5mg": 265.0,
+        "15mg": 300.0
+      },
+      "trustpilot": 4.3,
+      "gphc": "1031513",
+      "subscription": null,
+      "discounts": "More Details"
+    },
+    {
+      "name": "Superdrug",
+      "url": "https://monj.co.uk/superdrug-discount-codes/",
+      "prices": {
+        "2.5mg": 180.5,
+        "5mg": 193.5,
+        "7.5mg": 271.5,
+        "10mg": 306.5,
+        "12.5mg": 318.5,
+        "15mg": 338.5
+      },
+      "trustpilot": 4.4,
+      "gphc": "9010736",
+      "subscription": null,
+      "discounts": null
+    },
+    {
+      "name": "Swift Doctor",
+      "url": "https://monj.co.uk/swift-doctor-discount-codes-and-offers/",
+      "prices": {
+        "2.5mg": 149.0,
+        "5mg": 169.0,
+        "7.5mg": 225.0,
+        "10mg": 249.0,
+        "12.5mg": 265.0,
+        "15mg": 289.0
+      },
+      "trustpilot": 4.9,
+      "gphc": "9012809",
+      "subscription": null,
+      "discounts": "\u00a310 Off First Orders"
+    },
+    {
+      "name": "Swift Medi",
+      "url": "https://monj.co.uk/swift-medi-discounts-codes/",
+      "prices": {
+        "2.5mg": 192.75,
+        "5mg": 198.99,
+        "7.5mg": 258.2,
+        "10mg": 292.5,
+        "12.5mg": 302.99,
+        "15mg": 334.55
+      },
+      "trustpilot": 4.6,
+      "gphc": "9012840",
+      "subscription": null,
+      "discounts": "\u00a350 Off 1st Orders | \u00a320 Off Return Orders"
+    },
+    {
+      "name": "The Care Pharmacy",
+      "url": "https://monj.co.uk/the-care-pharmacy-discount-codes-and-offers/",
+      "prices": {
+        "2.5mg": 149.99,
+        "5mg": 184.99,
+        "7.5mg": 234.99,
+        "10mg": 259.99,
+        "12.5mg": 279.99,
+        "15mg": 299.99
+      },
+      "trustpilot": 4.9,
+      "gphc": "9010308",
+      "subscription": null,
+      "discounts": "\u00a322.50 Off First Orders"
+    },
+    {
+      "name": "The Family Chemist",
+      "url": "https://monj.co.uk/the-family-chemist-discount-codes-and-savings-vouchers/",
+      "prices": {
+        "2.5mg": 164.99,
+        "5mg": 174.99,
+        "7.5mg": 234.99,
+        "10mg": 259.99,
+        "12.5mg": 274.99,
+        "15mg": 294.99
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012915",
+      "subscription": "AS",
+      "discounts": "\u00a340 Off 2.5mg | \u00a335 Off First Orders | \u00a310 Off Return Orders"
+    },
+    {
+      "name": "The Independent Pharmacy",
+      "url": "https://monj.co.uk/the-independent-pharmacy-discount-codes-and-offers/",
+      "prices": {
+        "2.5mg": 179.99,
+        "5mg": 199.99,
+        "7.5mg": 259.99,
+        "10mg": 289.99,
+        "12.5mg": 304.99,
+        "15mg": 324.99
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012559",
+      "subscription": null,
+      "discounts": "20% Off First Orders"
+    },
+    {
+      "name": "Totiva",
+      "url": "https://monj.co.uk/totiva-discount-codes/",
+      "prices": {
+        "2.5mg": 136.88,
+        "5mg": 157.88,
+        "7.5mg": 207.88,
+        "10mg": 232.88,
+        "12.5mg": 248.88,
+        "15mg": 268.88
+      },
+      "trustpilot": 4.5,
+      "gphc": "9012997",
+      "subscription": null,
+      "discounts": "More Info"
+    },
+    {
+      "name": "Tribelle",
+      "url": "https://monj.co.uk/tribelle-discounts-codes-offers-savings/",
+      "prices": {
+        "2.5mg": 169.99,
+        "5mg": 173.99,
+        "7.5mg": 227.99,
+        "10mg": 253.99,
+        "12.5mg": 273.99,
+        "15mg": 293.99
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012688",
+      "subscription": null,
+      "discounts": "\u00a320 Off 1st Orders"
+    },
+    {
+      "name": "Voy",
+      "url": "https://monj.co.uk/voy-discounts-codes-offers-voucher/",
+      "prices": {
+        "2.5mg": 214.0,
+        "5mg": 244.0,
+        "7.5mg": 294.0,
+        "10mg": 324.0,
+        "12.5mg": 344.0,
+        "15mg": 359.0
+      },
+      "trustpilot": 4.7,
+      "gphc": "9012134",
+      "subscription": "AS/SUB",
+      "discounts": null
+    },
+    {
+      "name": "Well Pharmacy",
+      "url": "https://monj.co.uk/well-pharmacy-discount-codes/",
+      "prices": {
+        "2.5mg": 153.95,
+        "5mg": 193.95,
+        "7.5mg": 253.95,
+        "10mg": 293.95,
+        "12.5mg": 313.95,
+        "15mg": 323.95
+      },
+      "trustpilot": 4.3,
+      "gphc": "9010492",
+      "subscription": null,
+      "discounts": "\u00a39.99 Off 1st Orders"
+    },
+    {
+      "name": "WePrescribe",
+      "url": "https://monj.co.uk/weprescribe-discount-codes-and-offers/",
+      "prices": {
+        "2.5mg": 166.49,
+        "5mg": 191.49,
+        "7.5mg": 246.49,
+        "10mg": 264.49,
+        "12.5mg": 291.49,
+        "15mg": 306.49
+      },
+      "trustpilot": 4.8,
+      "gphc": "9012132",
+      "subscription": null,
+      "discounts": "\u00a341.50 Off 1st orders"
+    },
+    {
+      "name": "YourPharmacy",
+      "url": "https://monj.co.uk/your-pharmacy-discount-codes-and-offers/",
+      "prices": {
+        "2.5mg": 172.95,
+        "5mg": 193.95,
+        "7.5mg": 258.95,
+        "10mg": 279.95,
+        "12.5mg": 293.95,
+        "15mg": 302.95
+      },
+      "trustpilot": 4.5,
+      "gphc": "9012029",
+      "subscription": null,
+      "discounts": "\u00a325 Off 1st Orders"
+    },
+    {
+      "name": "Zava",
+      "url": "https://monj.co.uk/zava-discount-codes-and-offers/",
+      "prices": {
+        "2.5mg": 169.99,
+        "5mg": 187.99,
+        "7.5mg": 249.99,
+        "10mg": 279.99,
+        "12.5mg": 299.99,
+        "15mg": 309.99
+      },
+      "trustpilot": 4.5,
+      "gphc": "9011147",
+      "subscription": null,
+      "discounts": "\u00a340 Off 1st Orders | \u00a315 Off Return Orders"
+    }
+  ]
+}
