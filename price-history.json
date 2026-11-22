@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-11-21T06:00:54+04:00",
+    "last_scraped": "2026-11-22T06:02:23+04:00",
     "total_pharmacies": 83
   },
   "pharmacies": [
@@ -16,8 +16,8 @@
         "12.5mg": 202.0,
         "15mg": 219.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.0,
+      "gphc": "9011199",
       "additional_support": true,
       "subscription": false,
       "discounts": "[An Extra £15 Off First Orders](https://monj.co.uk/new-health-discount-codes/)"
@@ -33,8 +33,8 @@
         "12.5mg": 254.99,
         "15mg": 274.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "1089104",
       "additional_support": false,
       "subscription": false,
       "discounts": "[View Latest Price](https://monj.co.uk/allerton-discount-codes/)"
@@ -50,8 +50,8 @@
         "12.5mg": 280.97,
         "15mg": 292.47
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "1091675",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£10 Off First Orders | Free Collection Available](https://monj.co.uk/asda-online-doctor-discount-codes/)"
@@ -67,8 +67,8 @@
         "12.5mg": 256.48,
         "15mg": 271.48
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012896",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£20 Off First Orders | £17 Off Return](https://monj.co.uk/ashcroft-pharmacy-discount-codes/)"
@@ -84,8 +84,8 @@
         "12.5mg": 247.99,
         "15mg": 269.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.0,
+      "gphc": "9011523",
       "additional_support": false,
       "subscription": false,
       "discounts": "[AYP Discount Offers](https://monj.co.uk/ayp-healthcare-discount-codes/)"
@@ -101,8 +101,8 @@
         "12.5mg": 309.0,
         "15mg": 319.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9013085",
       "additional_support": false,
       "subscription": true,
       "discounts": "[£40 Off 1st Orders](https://monj.co.uk/bolt-pharmacy-discount-codes/)"
@@ -118,8 +118,8 @@
         "12.5mg": 322.95,
         "15mg": 342.95
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.3,
+      "gphc": "1096181",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Current Offer Details](https://monj.co.uk/boots-mounjaro-discounts/)"
@@ -135,8 +135,8 @@
         "12.5mg": 278.0,
         "15mg": 288.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012464",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Latest Offer Today](https://monj.co.uk/chemist4u-discount-codes-and-offers/)"
@@ -152,8 +152,8 @@
         "12.5mg": 262.99,
         "15mg": 282.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.4,
+      "gphc": "9012707",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£50 Off 1st Orders](https://monj.co.uk/chequp-health-discount-codes/)"
@@ -169,8 +169,8 @@
         "12.5mg": 254.98,
         "15mg": 273.98
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "1033781",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£20 Off 1st Orders | £10 Off Return Orders](https://monj.co.uk/click2pharmacy-discount-codes/)"
@@ -186,8 +186,8 @@
         "12.5mg": 215.0,
         "15mg": 235.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 3.9,
+      "gphc": "9012920",
       "additional_support": false,
       "subscription": true,
       "discounts": "[Latest Offers](https://monj.co.uk/curate-discount-codes/)"
@@ -203,8 +203,8 @@
         "12.5mg": 216.75,
         "15mg": 228.75
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "9012401",
       "additional_support": false,
       "subscription": true,
       "discounts": "[25% off first order | £21 off Step 1](https://monj.co.uk/curely-discount-codes/)"
@@ -220,8 +220,8 @@
         "12.5mg": 242.98,
         "15mg": 263.98
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.9,
+      "gphc": "9012581",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£18 Off 2.5mg & 5mg | £35 Off 7.5mg to 15mg](https://monj.co.uk/cuva-health-discount-codes/)"
@@ -237,8 +237,8 @@
         "12.5mg": 297.28,
         "15mg": 308.49
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9012267",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Latest Offers](https://monj.co.uk/doktorabc-discount-codes/)"
@@ -254,8 +254,8 @@
         "12.5mg": 245.03,
         "15mg": 275.05
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.4,
+      "gphc": "9012775",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Dotor Discount Offer](https://monj.co.uk/dotor-discounts-codes-savings/)"
@@ -271,8 +271,8 @@
         "12.5mg": 259.99,
         "15mg": 284.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.9,
+      "gphc": "1092500",
       "additional_support": true,
       "subscription": false,
       "discounts": "[See discount details](https://monj.co.uk/dr-weightmans-discount-codes/)"
@@ -288,8 +288,8 @@
         "12.5mg": 254.96,
         "15mg": 270.96
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012167",
       "additional_support": true,
       "subscription": true,
       "discounts": "[Up to £45 Off First Orders](https://monj.co.uk/e-surgery-discount-codes-and-latest-savings-2026/)"
@@ -305,8 +305,8 @@
         "12.5mg": 265.0,
         "15mg": 285.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012382",
       "additional_support": true,
       "subscription": false,
       "discounts": "[£5 Off First Order](https://monj.co.uk/envigore-discount-codes-and-savings/)"
@@ -322,8 +322,8 @@
         "12.5mg": 224.0,
         "15mg": 234.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.1,
+      "gphc": "9013270",
       "additional_support": false,
       "subscription": true,
       "discounts": "[£75 Off 1st Orders](https://monj.co.uk/everwell-discount-codes/)"
@@ -339,8 +339,8 @@
         "12.5mg": 219.85,
         "15mg": 238.6
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "9012851",
       "additional_support": true,
       "subscription": false,
       "discounts": "[New Customers: Up to 33% Off & Up to £25 Off Future Orders](https://monj.co.uk/farmeci-discount-code/)"
@@ -356,8 +356,8 @@
         "12.5mg": 211.0,
         "15mg": 228.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9012835",
       "additional_support": false,
       "subscription": false,
       "discounts": "[See Latest Offers](https://monj.co.uk/fylde-clinic-discount-codes/)"
@@ -373,8 +373,8 @@
         "12.5mg": 211.0,
         "15mg": 227.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.0,
+      "gphc": "9010938",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£10 Off First Orders](https://monj.co.uk/g1-nutrition-discount-codes/)"
@@ -390,8 +390,8 @@
         "12.5mg": 233.99,
         "15mg": 253.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9013006",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Up to £60 Off 1st Orders | £30 Off Return](https://monj.co.uk/genmeds-discounts-codes-savings/)"
@@ -407,8 +407,8 @@
         "12.5mg": 249.0,
         "15mg": 269.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 3.3,
+      "gphc": "9012347",
       "additional_support": false,
       "subscription": true,
       "discounts": "[£30 to £56 Off Eligible Orders](https://monj.co.uk/get-a-drip-discounts-codes/)"
@@ -424,8 +424,8 @@
         "12.5mg": 247.98,
         "15mg": 269.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "9011648",
       "additional_support": true,
       "subscription": true,
       "discounts": "[See discount details](https://monj.co.uk/get-weightloss-discount-codes/)"
@@ -441,8 +441,8 @@
         "12.5mg": 303.94,
         "15mg": 313.94
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.0,
+      "gphc": "9013068",
       "additional_support": false,
       "subscription": true,
       "discounts": "[Latest Offer Details](https://monj.co.uk/happen-discount-codes/)"
@@ -458,8 +458,8 @@
         "12.5mg": 265.44,
         "15mg": 292.44
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9013192",
       "additional_support": false,
       "subscription": false,
       "discounts": "[5% Off Orders](https://monj.co.uk/happy-pharmacy-discount-codes/)"
@@ -475,8 +475,8 @@
         "12.5mg": 234.98,
         "15mg": 254.94
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012957",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£40 Off 1st Orders | £20 Off Return](https://monj.co.uk/heba-discount-code/)"
@@ -492,8 +492,8 @@
         "12.5mg": 279.0,
         "15mg": 289.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9011842",
       "additional_support": true,
       "subscription": true,
       "discounts": "[Up to £70 Off for New Customers](https://monj.co.uk/hers-discount-codes/)"
@@ -509,8 +509,8 @@
         "12.5mg": 202.0,
         "15mg": 219.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9010411",
       "additional_support": true,
       "subscription": true,
       "discounts": "[Up to £75 Off 1st Orders | £20 Off Return](https://monj.co.uk/iq-doctor-discount-codes/)"
@@ -526,8 +526,8 @@
         "12.5mg": 329.0,
         "15mg": 339.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "9011842",
       "additional_support": true,
       "subscription": true,
       "discounts": "[Up to £90 Off 1st Orders](https://monj.co.uk/juniper-discount-codes/)"
@@ -543,11 +543,11 @@
         "12.5mg": 309.0,
         "15mg": 329.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.4,
+      "gphc": "9013068",
       "additional_support": true,
       "subscription": true,
-      "discounts": null
+      "discounts": "-"
     },
     {
       "pharmacy_name": "Live Well Weight Loss",
@@ -560,8 +560,8 @@
         "12.5mg": 252.95,
         "15mg": 272.95
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9012516",
       "additional_support": true,
       "subscription": false,
       "discounts": "[£20 Off 1st Orders](https://monj.co.uk/livewell-pharmacy-discount-codes/)"
@@ -577,8 +577,8 @@
         "12.5mg": 255.94,
         "15mg": 265.94
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.3,
+      "gphc": "9011437",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£50 Off 1st Orders](https://monj.co.uk/lloyds-pharmacy-discount-codes/)"
@@ -594,8 +594,8 @@
         "12.5mg": 223.0,
         "15mg": 239.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.0,
+      "gphc": "9013068",
       "additional_support": true,
       "subscription": false,
       "discounts": "[£45 Off First Orders](https://monj.co.uk/lotus-weight-loss-discounts-and-codes/)"
@@ -611,8 +611,8 @@
         "12.5mg": 259.0,
         "15mg": 269.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9010683",
       "additional_support": false,
       "subscription": false,
       "discounts": "[See offers and details](https://monj.co.uk/manchester-chemist-discount-codes-offers/)"
@@ -628,8 +628,8 @@
         "12.5mg": 303.94,
         "15mg": 313.94
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.3,
+      "gphc": "9012633",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Up to £70 Off First Orders](https://monj.co.uk/medexpress-discount-codes-and-offers/)"
@@ -645,8 +645,8 @@
         "12.5mg": 254.99,
         "15mg": 274.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9012752",
       "additional_support": false,
       "subscription": false,
       "discounts": "[See offers and details](https://monj.co.uk/medhut-discount-codes/)"
@@ -662,8 +662,8 @@
         "12.5mg": 202.0,
         "15mg": 219.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "1116946",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£10 Off First Orders](https://monj.co.uk/medicine-marketplace-discount-codes/)"
@@ -679,8 +679,8 @@
         "12.5mg": 259.0,
         "15mg": 279.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.2,
+      "gphc": "9012559",
       "additional_support": true,
       "subscription": true,
       "discounts": "[£50 Off First Orders](https://monj.co.uk/medicspot-discount-codes/)"
@@ -696,8 +696,8 @@
         "12.5mg": 269.99,
         "15mg": 287.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.9,
+      "gphc": "9011921",
       "additional_support": false,
       "subscription": false,
       "discounts": "[10% Off First Orders | 5% Off Return](https://monj.co.uk/medino-discounts-and-codes/)"
@@ -713,8 +713,8 @@
         "12.5mg": 245.99,
         "15mg": 265.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.4,
+      "gphc": "1088488",
       "additional_support": true,
       "subscription": true,
       "discounts": "[Medy Offers](https://monj.co.uk/medy-discount-codes-and-offers/)"
@@ -730,8 +730,8 @@
         "12.5mg": 211.0,
         "15mg": 228.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9011284",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Up to £81 Off First Orders](https://monj.co.uk/molecule-discount-code/)"
@@ -747,8 +747,8 @@
         "12.5mg": 299.0,
         "15mg": 319.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "1039469",
       "additional_support": false,
       "subscription": false,
       "discounts": "[See offer details](https://www.mshweightloss.co.uk/?utm_source=monj)"
@@ -764,8 +764,8 @@
         "12.5mg": 219.85,
         "15mg": 238.6
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9012851",
       "additional_support": true,
       "subscription": false,
       "discounts": "[New Customers: 33% Off & Up to £25 Off Future Orders](https://monj.co.uk/my-london-london-pharmacy-discount-code/)"
@@ -781,8 +781,8 @@
         "12.5mg": 246.0,
         "15mg": 266.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9012568",
       "additional_support": true,
       "subscription": false,
       "discounts": "[See discount details](https://monj.co.uk/next-script-pharmacy-discount-codes/)"
@@ -798,8 +798,8 @@
         "12.5mg": 246.0,
         "15mg": 266.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9012156",
       "additional_support": true,
       "subscription": false,
       "discounts": "[£30 Off First Orders](https://monj.co.uk/novavie-discount-codes/)"
@@ -815,8 +815,8 @@
         "12.5mg": 250.99,
         "15mg": 270.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012931",
       "additional_support": true,
       "subscription": false,
       "discounts": "[Discount offer information](https://monj.co.uk/nulife-pharmacy-discount-codes/)"
@@ -832,8 +832,8 @@
         "12.5mg": 329.0,
         "15mg": 339.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9011408",
       "additional_support": true,
       "subscription": true,
       "discounts": "[£100 Off First Orders](https://monj.co.uk/numan-discounts-codes/)"
@@ -849,8 +849,8 @@
         "12.5mg": 242.99,
         "15mg": 269.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012658",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£30 Off First Orders](https://monj.co.uk/onlinemeds-discount-codes-and-offers/)"
@@ -866,8 +866,8 @@
         "12.5mg": 254.99,
         "15mg": 274.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9013104",
       "additional_support": true,
       "subscription": false,
       "discounts": "[£40 Off 1st Orders | £15 Off Return](https://monj.co.uk/oushk-discounts-codes/)"
@@ -883,8 +883,8 @@
         "12.5mg": 294.99,
         "15mg": 314.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.3,
+      "gphc": "9012423",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Discount offer](https://monj.co.uk/pharmacy-advance-discount-codes/)"
@@ -900,8 +900,8 @@
         "12.5mg": 264.99,
         "15mg": 284.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.9,
+      "gphc": "9012468",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Latest Offers and Pricing](https://monj.co.uk/pharmacy-express-discount-codes/)"
@@ -917,8 +917,8 @@
         "12.5mg": 296.24,
         "15mg": 306.24
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9010146",
       "additional_support": true,
       "subscription": false,
       "discounts": "[Up to £55 Off First Orders](https://monj.co.uk/pharmacy2u-discount-codes/)"
@@ -934,8 +934,8 @@
         "12.5mg": 269.99,
         "15mg": 279.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.9,
+      "gphc": "9012030",
       "additional_support": true,
       "subscription": false,
       "discounts": "[£40 Off 1st Orders | £20 Off Return](https://monj.co.uk/pharmica-discount-codes-savings-offers/)"
@@ -951,8 +951,8 @@
         "12.5mg": 264.98,
         "15mg": 279.98
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012252",
       "additional_support": true,
       "subscription": false,
       "discounts": "[Offer Details](https://monj.co.uk/pharmulous-discount-codes/)"
@@ -968,8 +968,8 @@
         "12.5mg": 244.99,
         "15mg": 266.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9013275",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£15 Off First Orders](https://monj.co.uk/pills2u-discount-codes/)"
@@ -985,8 +985,8 @@
         "12.5mg": 279.0,
         "15mg": 289.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9011258",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Up to £40 Off 1st Orders](https://monj.co.uk/pillsorted-discount-code/)"
@@ -1002,8 +1002,8 @@
         "12.5mg": 241.95,
         "15mg": 261.95
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.4,
+      "gphc": "9012694",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£10 Off First Order](https://monj.co.uk/pillsphere-discount-codes)"
@@ -1019,8 +1019,8 @@
         "12.5mg": 259.98,
         "15mg": 272.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 3.7,
+      "gphc": "9011779",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£45 Off First Orders](https://monj.co.uk/pilltime-discount-codes-pilltime-savings-offers/)"
@@ -1036,8 +1036,8 @@
         "12.5mg": 279.0,
         "15mg": 299.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9013068",
       "additional_support": true,
       "subscription": true,
       "discounts": "[£50 Off First Order](https://monj.co.uk/second-nature-discount-codes-savings-and-offers/)"
@@ -1053,8 +1053,8 @@
         "12.5mg": 304.98,
         "15mg": 324.98
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9011287",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£40 Off 1st Orders](https://monj.co.uk/simple-online-pharmacy-discount-codes/)"
@@ -1070,8 +1070,8 @@
         "12.5mg": 259.99,
         "15mg": 269.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.9,
+      "gphc": "9012790",
       "additional_support": false,
       "subscription": true,
       "discounts": "[£40 Off 1st Orders | £25 Off Return](https://monj.co.uk/skin-and-shape-discount-codes/)"
@@ -1087,8 +1087,8 @@
         "12.5mg": 239.0,
         "15mg": 270.5
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "1031513",
       "additional_support": true,
       "subscription": false,
       "discounts": "[Up to £25 Off First Orders](https://monj.co.uk/slimming-direct-discount-codes/)"
@@ -1104,8 +1104,8 @@
         "12.5mg": 241.99,
         "15mg": 261.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "1033729",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£10 Off First Orders](https://monj.co.uk/slinic-discount-codes/)"
@@ -1121,8 +1121,8 @@
         "12.5mg": 262.98,
         "15mg": 282.98
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9013213",
       "additional_support": true,
       "subscription": false,
       "discounts": "[Latest Offers](https://monj.co.uk/solira-discount-codes/)"
@@ -1138,8 +1138,8 @@
         "12.5mg": 323.5,
         "15mg": 343.5
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "9010736",
       "additional_support": false,
       "subscription": false,
       "discounts": "[Discount Information](https://onlinepharmacy.superdrug.com/)"
@@ -1155,8 +1155,8 @@
         "12.5mg": 265.0,
         "15mg": 289.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.9,
+      "gphc": "9012809",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£10 Off First Orders](https://monj.co.uk/swift-doctor-discount-codes-and-offers/)"
@@ -1172,8 +1172,8 @@
         "12.5mg": 243.5,
         "15mg": 262.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9012840",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£50 Off First Orders | £20 Off Return](https://monj.co.uk/swift-medi-discounts-codes/)"
@@ -1189,8 +1189,8 @@
         "12.5mg": 257.49,
         "15mg": 277.49
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9010308",
       "additional_support": true,
       "subscription": true,
       "discounts": "[£22.50 Off First Orders](https://monj.co.uk/the-care-pharmacy-discount-codes-and-offers/)"
@@ -1206,8 +1206,8 @@
         "12.5mg": 238.99,
         "15mg": 253.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012915",
       "additional_support": true,
       "subscription": true,
       "discounts": "[£40 Off 1st Orders | £10 Off Returns](https://monj.co.uk/the-family-chemist-discount-codes-and-savings-vouchers/)"
@@ -1223,8 +1223,8 @@
         "12.5mg": 243.99,
         "15mg": 263.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012559",
       "additional_support": true,
       "subscription": false,
       "discounts": "[20% Off First Orders](https://monj.co.uk/the-independent-pharmacy-discount-codes-and-offers/)"
@@ -1240,8 +1240,8 @@
         "12.5mg": 227.7,
         "15mg": 247.5
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "1034996",
       "additional_support": true,
       "subscription": false,
       "discounts": "[Up to £58.85 Off 1st Orders](https://monj.co.uk/the-weight-clinic-discount-codes/)"
@@ -1257,8 +1257,8 @@
         "12.5mg": 248.88,
         "15mg": 268.88
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012997",
       "additional_support": true,
       "subscription": false,
       "discounts": "[See discount details](https://monj.co.uk/totiva-discount-codes/)"
@@ -1274,8 +1274,8 @@
         "12.5mg": 228.99,
         "15mg": 248.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012688",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£40 Off First Orders](https://monj.co.uk/tribelle-discounts-codes-offers-savings/)"
@@ -1291,8 +1291,8 @@
         "12.5mg": 299.99,
         "15mg": 299.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.8,
+      "gphc": "9012710",
       "additional_support": true,
       "subscription": true,
       "discounts": "[£30 Off Your First 3 Orders | Save £90](https://monj.co.uk/trim-discount-codes/)"
@@ -1308,8 +1308,8 @@
         "12.5mg": 344.0,
         "15mg": 359.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9012909",
       "additional_support": true,
       "subscription": true,
       "discounts": "[£50 Off First Order](https://monj.co.uk/voy-discounts-codes-offers-voucher/)"
@@ -1325,8 +1325,8 @@
         "12.5mg": 313.95,
         "15mg": 323.95
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.3,
+      "gphc": "9010492",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£20 Off First Orders](https://monj.co.uk/well-pharmacy-discount-codes/)"
@@ -1342,8 +1342,8 @@
         "12.5mg": 244.99,
         "15mg": 264.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.9,
+      "gphc": "9012132",
       "additional_support": true,
       "subscription": false,
       "discounts": "[£45 Off First Order](https://monj.co.uk/weprescribe-discount-codes-and-offers/)"
@@ -1359,8 +1359,8 @@
         "12.5mg": 263.99,
         "15mg": 273.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9012710",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£10 Off First Orders](https://monj.co.uk/xo-medical-discount-codes/)"
@@ -1376,8 +1376,8 @@
         "12.5mg": 242.5,
         "15mg": 263.0
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.7,
+      "gphc": "9013045",
       "additional_support": true,
       "subscription": false,
       "discounts": "[New Customers: £10 Off 2.5mg | £20 Off Other Doses](https://monj.co.uk/yourdose-discount-codes/)"
@@ -1393,8 +1393,8 @@
         "12.5mg": 268.95,
         "15mg": 277.95
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.6,
+      "gphc": "9012029",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£25 Off First Orders](https://monj.co.uk/your-pharmacy-discount-codes-and-offers/)"
@@ -1410,8 +1410,8 @@
         "12.5mg": 243.99,
         "15mg": 253.99
       },
-      "trustpilot": null,
-      "gphc": null,
+      "trustpilot": 4.5,
+      "gphc": "9012701",
       "additional_support": false,
       "subscription": false,
       "discounts": "[£45 Off First Order | £10 Off Return Orders](https://monj.co.uk/zava-discount-codes/)"
