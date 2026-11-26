@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "https://monj.co.uk/mounjaro-price-list-non-discounted-uk/",
-    "last_scraped": "2026-11-25T06:00:32+04:00",
+    "last_scraped": "2026-11-26T06:00:49+04:00",
     "total_pharmacies": 83
   },
   "pharmacies": [
@@ -213,18 +213,18 @@
       "pharmacy_name": "Cuva Health",
       "pharmacy_url": "https://monj.co.uk/cuva-health-discount-codes/",
       "prices": {
-        "2.5mg": 129.0,
-        "5mg": 153.0,
-        "7.5mg": 197.0,
-        "10mg": 221.0,
-        "12.5mg": 244.0,
-        "15mg": 263.0
+        "2.5mg": 118.0,
+        "5mg": 138.0,
+        "7.5mg": 196.0,
+        "10mg": 222.0,
+        "12.5mg": 238.0,
+        "15mg": 258.0
       },
       "trustpilot": 4.9,
       "gphc": "9012581",
       "additional_support": false,
       "subscription": false,
-      "discounts": "[£15 Off 1st Orders](https://monj.co.uk/cuva-health-discount-codes/)"
+      "discounts": "[£30 Off 1st Orders](https://monj.co.uk/cuva-health-discount-codes/)"
     },
     {
       "pharmacy_name": "DoktorABC",
@@ -318,9 +318,9 @@
         "2.5mg": 114.0,
         "5mg": 124.0,
         "7.5mg": 174.0,
-        "10mg": 204.0,
-        "12.5mg": 224.0,
-        "15mg": 234.0
+        "10mg": 194.0,
+        "12.5mg": 214.0,
+        "15mg": 224.0
       },
       "trustpilot": 4.1,
       "gphc": "9013270",
